@@ -11,6 +11,7 @@
 // the quantity bought. No hints this time!
 
 
+
 // Put your function here!
 fn calculate_price_of_apples (price:i32) -> i32 {
     if price <= 40 {
